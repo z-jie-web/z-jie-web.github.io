@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-22T12:31:01.847Z</updated>
+  <updated>2021-09-23T14:24:17.320Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Github + Hexo 搭建个人博客超详细教程</title>
+    <title>Github + Hexo 搭建个人博客超详细教程(原博客文章)</title>
     <link href="http://example.com/2020/02/18/1/"/>
     <id>http://example.com/2020/02/18/1/</id>
     <published>2020-02-18T13:17:35.000Z</published>
-    <updated>2021-09-22T12:31:01.847Z</updated>
+    <updated>2021-09-23T14:24:17.320Z</updated>
     
     <summary type="html">
     
