@@ -605,7 +605,7 @@ header .go-back i {
   display: flex;
   /* width: 85% !important; */
   /* max-width: 1125px !important; */
-  margin: 0 auto !important;
+  /* margin: 0 auto !important; */
   /* height: 80% !important; */
   align-items: center;
   height: 60vh;
